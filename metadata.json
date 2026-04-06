@@ -1,0 +1,5 @@
+{
+  "name": "CineVision AI",
+  "description": "A production-level Netflix-style movie recommendation system with dynamic hero banners, hover previews, and smart search.",
+  "requestFramePermissions": []
+}
