@@ -128,7 +128,7 @@ Gemini AI            Voice Navigation
 ## AI Recovery Insights
 
 <p align="center">
-<img src="src/images/s/insights.png" width="850">
+<img src="src/images/insights.png" width="850">
 </p>
 
 ---
@@ -136,7 +136,7 @@ Gemini AI            Voice Navigation
 ## Pain Mapping
 
 <p align="center">
-<img src="src/images/s/painmap.png" width="450">
+<img src="src/images/painmap.png" width="450">
 </p>
 
 ---
@@ -144,7 +144,7 @@ Gemini AI            Voice Navigation
 ## Upload Prescription
 
 <p align="center">
-<img src="src/images/s/upload.png" width="850">
+<img src="src/images/upload.png" width="850">
 </p>
 
 ---
@@ -152,7 +152,7 @@ Gemini AI            Voice Navigation
 ## Weekly Recovery Report
 
 <p align="center">
-<img src="src/images//reports.png" width="700">
+<img src="src/images/reports.png" width="700">
 </p>
 
 ---
@@ -160,7 +160,7 @@ Gemini AI            Voice Navigation
 ## Daily Schedule
 
 <p align="center">
-<img src="src/images//schedule1.png" width="450">
+<img src="src/images/schedule1.png" width="450">
 </p>
 
 ---
@@ -168,7 +168,7 @@ Gemini AI            Voice Navigation
 ## Settings & Voice Navigation
 
 <p align="center">
-<img src="src/images/s/settings.png" width="850">
+<img src="src/images/settings.png" width="850">
 </p>
 
 ---
