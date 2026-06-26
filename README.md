@@ -25,7 +25,7 @@ Helping patients and caregivers manage rehabilitation through AI-generated recov
 ---
 
 <p align="center">
-<img src="images/hero.png" width="900">
+<img src="src/images//hero.png" width="900">
 </p>
 
 ---
@@ -104,7 +104,7 @@ Gemini AI            Voice Navigation
 ## Login Page
 
 <p align="center">
-<img src="images/login.png" width="850">
+<img src="src/images//login.png" width="850">
 </p>
 
 ---
@@ -112,7 +112,7 @@ Gemini AI            Voice Navigation
 ## Dashboard
 
 <p align="center">
-<img src="images/dashboard.png" width="850">
+<img src="src/images/s/dashboard.png" width="850">
 </p>
 
 ---
@@ -120,7 +120,7 @@ Gemini AI            Voice Navigation
 ## Recovery Plan
 
 <p align="center">
-<img src="images/recovery-plan.png" width="850">
+<img src="src/images//recovery-plan.png" width="850">
 </p>
 
 ---
@@ -128,7 +128,7 @@ Gemini AI            Voice Navigation
 ## AI Recovery Insights
 
 <p align="center">
-<img src="images/insights.png" width="850">
+<img src="src/images/s/insights.png" width="850">
 </p>
 
 ---
@@ -136,7 +136,7 @@ Gemini AI            Voice Navigation
 ## Pain Mapping
 
 <p align="center">
-<img src="images/painmap.png" width="450">
+<img src="src/images/s/painmap.png" width="450">
 </p>
 
 ---
@@ -144,7 +144,7 @@ Gemini AI            Voice Navigation
 ## Upload Prescription
 
 <p align="center">
-<img src="images/upload.png" width="850">
+<img src="src/images/s/upload.png" width="850">
 </p>
 
 ---
@@ -152,7 +152,7 @@ Gemini AI            Voice Navigation
 ## Weekly Recovery Report
 
 <p align="center">
-<img src="images/reports.png" width="700">
+<img src="src/images//reports.png" width="700">
 </p>
 
 ---
@@ -160,7 +160,7 @@ Gemini AI            Voice Navigation
 ## Daily Schedule
 
 <p align="center">
-<img src="images/schedule1.png" width="450">
+<img src="src/images//schedule1.png" width="450">
 </p>
 
 ---
@@ -168,7 +168,7 @@ Gemini AI            Voice Navigation
 ## Settings & Voice Navigation
 
 <p align="center">
-<img src="images/settings.png" width="850">
+<img src="src/images/s/settings.png" width="850">
 </p>
 
 ---
