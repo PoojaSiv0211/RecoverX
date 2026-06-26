@@ -112,7 +112,7 @@ Gemini AI            Voice Navigation
 ## Dashboard
 
 <p align="center">
-<img src="src/images/s/dashboard.png" width="850">
+<img src="src/images/dashboard.png" width="850">
 </p>
 
 ---
